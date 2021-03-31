@@ -1,0 +1,35 @@
+option.ANIMATE_USING_WORLDTIME=Animate Using Worldtime
+option.ANIMATION_SPEED=Animation Speed
+
+option.GODRAYS=Godrays
+option.NO_GODRAYS=No Godrays
+option.MOONRAYS=Moonrays
+option.NO_UNDERWATER_RAYS=No Underwater Rays
+
+option.TONEMAP_FILMIC=Filmic Tonemap
+option.TONEMAP_NATURAL=Natural Tonemap
+
+option.WAVING_FIRE=Waving Fire
+option.WAVING_GRASS=Waving Grass
+option.WAVING_LEAVES=Waving Leaves
+option.WAVING_WHEAT=Waving Wheat
+
+option.VolumetricClouds=Volumetric Clouds
+
+option.LOCAL_OPERATOR=Local Operator
+option.PARALLAX=Parallax
+option.SMOOTH_SKY=Smooth Sky
+option.TEXTURE_FIX=Texture Fix
+
+option.ColorTrip=Color Trip
+option.WorldSpace=World Space
+option.WAVING_ALL=Waving All
+
+screen.SEUSSETTINGS=SEUS Settings
+screen.ANIMATIONS=Animations
+screen.GODRAYS=Godrays
+screen.TONEMAPS=Tonemaps
+screen.WAVING=Waving
+screen.CLOUDS=Clouds
+screen.OTHER=Other
+screen.ACID=Acid
